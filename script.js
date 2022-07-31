@@ -52,7 +52,7 @@ function checkNumber(msg) {
     <button class="play-again" id="play-again"> Play Again</button>
 
     <video width="320" height="240" autoplay muted>
-      <source src="./media/dance.mp4" type="video/mp4">
+      <source src="/media/dance.mp4" type="video/mp4">
     </video>
     `;
   } else if (num > randomNum) {
